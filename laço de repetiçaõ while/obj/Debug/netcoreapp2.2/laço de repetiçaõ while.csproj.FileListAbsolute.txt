@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\bin\Debug\netcoreapp2.2\laço de repetiçaõ while.deps.json
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\bin\Debug\netcoreapp2.2\laço de repetiçaõ while.runtimeconfig.json
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\bin\Debug\netcoreapp2.2\laço de repetiçaõ while.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\bin\Debug\netcoreapp2.2\laço de repetiçaõ while.dll
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\bin\Debug\netcoreapp2.2\laço de repetiçaõ while.pdb
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\obj\Debug\netcoreapp2.2\laço de repetiçaõ while.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\obj\Debug\netcoreapp2.2\laço de repetiçaõ while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\obj\Debug\netcoreapp2.2\laço de repetiçaõ while.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\obj\Debug\netcoreapp2.2\laço de repetiçaõ while.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\obj\Debug\netcoreapp2.2\laço de repetiçaõ while.dll
+C:\Users\fic\Documents\csharp\laço de repetiçaõ while\obj\Debug\netcoreapp2.2\laço de repetiçaõ while.pdb

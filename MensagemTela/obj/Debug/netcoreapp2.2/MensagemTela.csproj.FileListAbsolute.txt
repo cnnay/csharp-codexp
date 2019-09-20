@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\MensagemTela\obj\Debug\netcoreapp2.2\MensagemTela.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\MensagemTela\obj\Debug\netcoreapp2.2\MensagemTela.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\MensagemTela\obj\Debug\netcoreapp2.2\MensagemTela.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\MensagemTela\obj\Debug\netcoreapp2.2\MensagemTela.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\MensagemTela\bin\Debug\netcoreapp2.2\MensagemTela.deps.json
+C:\Users\fic\Documents\csharp\MensagemTela\bin\Debug\netcoreapp2.2\MensagemTela.runtimeconfig.json
+C:\Users\fic\Documents\csharp\MensagemTela\bin\Debug\netcoreapp2.2\MensagemTela.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\MensagemTela\bin\Debug\netcoreapp2.2\MensagemTela.dll
+C:\Users\fic\Documents\csharp\MensagemTela\bin\Debug\netcoreapp2.2\MensagemTela.pdb
+C:\Users\fic\Documents\csharp\MensagemTela\obj\Debug\netcoreapp2.2\MensagemTela.dll
+C:\Users\fic\Documents\csharp\MensagemTela\obj\Debug\netcoreapp2.2\MensagemTela.pdb

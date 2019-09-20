@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\bin\Debug\netcoreapp2.2\exercicios-laço-de-recepição.deps.json
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\bin\Debug\netcoreapp2.2\exercicios-laço-de-recepição.runtimeconfig.json
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\bin\Debug\netcoreapp2.2\exercicios-laço-de-recepição.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\bin\Debug\netcoreapp2.2\exercicios-laço-de-recepição.dll
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\bin\Debug\netcoreapp2.2\exercicios-laço-de-recepição.pdb
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\obj\Debug\netcoreapp2.2\exercicios-laço-de-recepição.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\obj\Debug\netcoreapp2.2\exercicios-laço-de-recepição.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\obj\Debug\netcoreapp2.2\exercicios-laço-de-recepição.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\obj\Debug\netcoreapp2.2\exercicios-laço-de-recepição.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\obj\Debug\netcoreapp2.2\exercicios-laço-de-recepição.dll
+C:\Users\fic\Documents\csharp\exercicios-laço-de-recepição\obj\Debug\netcoreapp2.2\exercicios-laço-de-recepição.pdb

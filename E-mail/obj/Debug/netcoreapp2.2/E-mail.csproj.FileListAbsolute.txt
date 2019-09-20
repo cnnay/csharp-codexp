@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\E-mail\bin\Debug\netcoreapp2.2\E-mail.deps.json
+C:\Users\fic\Documents\csharp\E-mail\bin\Debug\netcoreapp2.2\E-mail.runtimeconfig.json
+C:\Users\fic\Documents\csharp\E-mail\bin\Debug\netcoreapp2.2\E-mail.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\E-mail\bin\Debug\netcoreapp2.2\E-mail.dll
+C:\Users\fic\Documents\csharp\E-mail\bin\Debug\netcoreapp2.2\E-mail.pdb
+C:\Users\fic\Documents\csharp\E-mail\obj\Debug\netcoreapp2.2\E-mail.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\E-mail\obj\Debug\netcoreapp2.2\E-mail.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\E-mail\obj\Debug\netcoreapp2.2\E-mail.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\E-mail\obj\Debug\netcoreapp2.2\E-mail.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\E-mail\obj\Debug\netcoreapp2.2\E-mail.dll
+C:\Users\fic\Documents\csharp\E-mail\obj\Debug\netcoreapp2.2\E-mail.pdb

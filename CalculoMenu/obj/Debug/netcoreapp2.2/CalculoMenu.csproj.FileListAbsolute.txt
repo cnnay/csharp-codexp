@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\CalculoMenu\bin\Debug\netcoreapp2.2\CalculoMenu.deps.json
+C:\Users\fic\Documents\csharp\CalculoMenu\bin\Debug\netcoreapp2.2\CalculoMenu.runtimeconfig.json
+C:\Users\fic\Documents\csharp\CalculoMenu\bin\Debug\netcoreapp2.2\CalculoMenu.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\CalculoMenu\bin\Debug\netcoreapp2.2\CalculoMenu.dll
+C:\Users\fic\Documents\csharp\CalculoMenu\bin\Debug\netcoreapp2.2\CalculoMenu.pdb
+C:\Users\fic\Documents\csharp\CalculoMenu\obj\Debug\netcoreapp2.2\CalculoMenu.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\CalculoMenu\obj\Debug\netcoreapp2.2\CalculoMenu.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\CalculoMenu\obj\Debug\netcoreapp2.2\CalculoMenu.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\CalculoMenu\obj\Debug\netcoreapp2.2\CalculoMenu.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\CalculoMenu\obj\Debug\netcoreapp2.2\CalculoMenu.dll
+C:\Users\fic\Documents\csharp\CalculoMenu\obj\Debug\netcoreapp2.2\CalculoMenu.pdb
